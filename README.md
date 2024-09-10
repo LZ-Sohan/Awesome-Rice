@@ -38,6 +38,7 @@ Passion Project with RonBis
 - xorg-xev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- utility to show X events
 - xf86-video-amdgpu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- X.Org driver for amd gpus
 - xdg-user-dirs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- manages directories like "Documents" and "Downloads"
+- cava&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - music waveform tool in terminal
 
 - anydesk-bin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- anydesk app
 - visual-studio-code-bin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- vscode
