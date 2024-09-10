@@ -1,7 +1,7 @@
 # Awesome-Rice
 Passion Project with RonBis
 
-### Packages installed so far:
+## Packages installed so far:
 
 - grub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- bootloader
 - base&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- base packages
