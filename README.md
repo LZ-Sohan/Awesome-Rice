@@ -3,52 +3,48 @@ Passion Project with RonBis
 
 ## Packages installed so far:
 
-- grub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- bootloader
-- base&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- base packages
-- base-devel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- dev tool for building packages
-- linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- kernel
-- linux-firmware&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- firmware files for linux kernel
-- networkmanager&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- networking
-- alacritty&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- terminal emulator
-- neofetch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- flex
-- neovim&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- text editor
-- nautilus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- file manager
-- firefox&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- default browser
-- git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- version control system
-- amd-ucode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- amd processor
-- bluez&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- bluetooth stack
-- bluez-utils&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- utilities for bluetooth stack
-- ntp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- network time protocol for clock sync
-- chrony&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- ntp client and server for system clock sync
-- brightnessctl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- brightness control
-- feh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- wallpaper setter
-- flameshot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- screenshot tool
-- noto-fonts&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- fonts tool
-- noto-fonts-emoji&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- emoji tool
-- lolcat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- text colouring tool
-- redshift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- blue light filter
-- picom&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- compositor
-- pipewire&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- multimedia server
-- pavucontrol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- volume control
-- yay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- arch user repo packages manager
-- xorg-server&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- server for X window system
-- xorg-xinit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- provide startx
-- xorg-xinput&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- configure input devices
-- xorg-xrandr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- configure display settings
-- xorg-xev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- utility to show X events
-- xf86-video-amdgpu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- X.Org driver for amd gpus
-- xdg-user-dirs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- manages directories like "Documents" and "Downloads"
-- cava&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - music waveform tool in terminal
+- grub - bootloader<br>
+- base - base packages<br>
+- base-devel - dev tool for building packages<br>
+- linux - kernel<br>
+- linux-firmware - firmware files for linux kernel<br>
+- networkmanager - networking<br>
+- alacritty - terminal emulator<br>
+- neofetch - flex<br>
+- neovim - text editor<br>
+- nautilus - file manager<br>
+- firefox - default browser<br>
+- git - version control system<br>
+- amd-ucode - amd processor<br>
+- bluez - bluetooth stack<br>
+- bluez-utils - utilities for bluetooth stack<br>
+- ntp - network time protocol for clock sync<br>
+- chrony - ntp client and server for system clock sync<br>
+- brightnessctl - brightness control<br>
+- feh - wallpaper setter<br>
+- flameshot - screenshot tool<br>
+- noto-fonts - fonts tool<br>
+- noto-fonts-emoji - emoji tool<br>
+- lolcat - text colouring tool<br>
+- redshift - blue light filter<br>
+- picom - compositor<br>
+- pipewire - multimedia server<br>
+- pavucontrol - volume control<br>
+- yay - arch user repo packages manager<br>
+- xorg-server - server for X window system<br>
+- xorg-xinit - provide startx<br>
+- xorg-xinput - configure input devices<br>
+- xorg-xrandr - configure display settings<br>
+- xorg-xev - utility to show X events<br>
+- xf86-video-amdgpu - X.Org driver for amd gpus<br>
+- xdg-user-dirs - manages directories like "Documents" and "Downloads"<br>
+- cava - music waveform tool in terminal<br>
 
-- anydesk-bin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- anydesk app
-- visual-studio-code-bin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- vscode
-- jetbrains-toolbox&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- android studio
-- whatsapp-for-linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- whatsapp
-- spotify-launcher&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- spotify
-
-
-
-
+- anydesk-bin - anydesk app<br>
+- visual-studio-code-bin - vscode<br>
+- jetbrains-toolbox - android studio<br>
+- whatsapp-for-linux - whatsapp<br>
+- spotify-launcher - spotify<br>
 
 
 
