@@ -1,12 +1,12 @@
 # Awesome-Rice
 Passion Project with RonBis
 
-# Packages installed so far:
+### Packages installed so far:
 
-grub                   - bootloader<br />
-base                   - base packages<br />
-base-devel             - dev tool for building packages<br />
-linux                  - kernel<br />
+- grub                   - bootloader<br />
+- base                   - base packages<br />
+- base-devel             - dev tool for building packages<br />
+- linux                  - kernel<br />
 linux-firmware         - firmware files for linux kernel<br />
 networkmanager         - networking<br />
 alacritty              - terminal emulator<br />
